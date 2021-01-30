@@ -26,7 +26,7 @@ void Bat::moveLeft()
 
 void Bat::moveRight()
 {
-	m_MovingLeft = true;
+	m_MovingRight = true;
 }
 
 void Bat::stopLeft()
